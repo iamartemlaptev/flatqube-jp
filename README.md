@@ -1,6 +1,6 @@
 ---
 description: >-
-  Learn about FlatQube - a decentralized AMM exchange powered by the Everscale
+  Learn about dcfalized AMM exchange powered by the Everscale
   blockchain that combines all the best of popular DeFi applications in one
   platform.
 ---
